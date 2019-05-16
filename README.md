@@ -6,7 +6,7 @@ Processo de seleção de candidatos:
 
 1 Vaga para Programador Pleno;
 
-Salário: Conforme convencão coletiva SEACEC
+Salário: Conforme convenção coletiva SEACEC
 
 Carga horária: 40 horas semanais
 
