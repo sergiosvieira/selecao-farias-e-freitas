@@ -1,4 +1,4 @@
-# Farias & Freitas - Enviar currículo até 23/05/2019 para sergiosvieira@gmail.com e para joaomsa3@gmail.com
+# Farias & Freitas - Enviar currículo até 23/05/2019 para sergiosvieira@gmail.com, joaomsa3@gmail.com e daniellima32@gmail.com
 
 SELEÇÃO DE PROFISSIONAIS DE NÍVEL SUPERIOR EM POSTO DE TRABALHO LOTADO NA FUNCEME - 1 VAGA NA ÁREA DE DESENVOLVIMENTO EM C++
 
